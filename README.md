@@ -13,6 +13,7 @@
 [Technologies](#technologies)
 
 ## Description
+This challenge required me to create a portfolio using strictly css and html. The requirements for this assingment are the following:
 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
